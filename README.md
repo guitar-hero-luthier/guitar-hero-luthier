@@ -13,3 +13,10 @@ Há uma grande variedade de músicas, inclusive é possível criar as suas para 
 
 <img src="https://imgs.search.brave.com/nkVsceQrH-vyZJWk2q8AWI7shmcy0CjzVhlwY-29OkE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9OUV9OUF84/NDc2MzQtTUxCNTQx/MTk3Mzg1MTRfMDMy/MDIzLVcud2VicA">
 <img src="https://imgs.search.brave.com/pdp0tcuJ0hjM3Q3n1SnVeRAmHgjoqpKrMa5YKmY0egI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDE0ZUNyLWZOUEwu/anBn">
+
+# Lista de Materiais
+
+* Arduino Uno
+* Fios
+* Modelo 3D da guitarra
+* Ferro de solda

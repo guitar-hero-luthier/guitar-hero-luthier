@@ -16,13 +16,15 @@ Há uma grande variedade de músicas, inclusive é possível criar as suas para 
 <img src="https://imgs.search.brave.com/pdp0tcuJ0hjM3Q3n1SnVeRAmHgjoqpKrMa5YKmY0egI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDE0ZUNyLWZOUEwu/anBn"/>
 Jogos: <a href="https://clonehero.net/">Clone hero</a>, e todos os Guitar Hero e Rock Band
 
-## Lista de Materiais
+## Lista de Materiais e Equipamentos
 
 * Arduino Uno
 * Fios
-* Modelo 3D da guitarra
-* Ferro de solda
+* Resistores
+* Push Buttons
+* MDF 60x40
+* Máquina de corte a laser
 
-* ## Feira de Jogos
+## Feira de Jogos
 Projeto final do curso técnico de telecomunicações no IFSC São José. <br>
 [A Feira de jogos](https://github.com/feira-de-jogos/docs) é uma exposição de jogos feitos pelos alunos da última fase do curso.

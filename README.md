@@ -42,6 +42,7 @@ Serão adicionadas ao jogo algumas músicas originais de outros Guitar Hero, mas
 - Mamonas Assassinas
 - Capital Inicial
 
+Algumas fontes para músicas: <a href="https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit?gid=1870223413#gid=1870223413">Clone Hero Songs, google spreadsheet </a> e <a href="https://www.enchor.us/">Chorus Encore</a> <br>
 Músicas adicionadas: Guitar Hero 3<br>
 Músicas Criadas: Polícia - Titãs
 

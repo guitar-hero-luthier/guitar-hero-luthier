@@ -42,7 +42,7 @@ Serão adicionadas ao jogo algumas músicas originais de outros Guitar Hero, mas
 - Mamonas Assassinas
 - Capital Inicial
 
-Músicas adicionadas: <br>
+Músicas adicionadas: Guitar Hero 3<br>
 Músicas Criadas: Polícia - Titãs
 
 ## Referências

@@ -40,6 +40,7 @@ Serão adicionadas ao jogo algumas músicas originais de outros Guitar Hero, mas
 - Astronautas
 - Angra
 - Mamonas Assassinas
+- Capital Inicial
 
 Músicas adicionadas: <br>
 Músicas Criadas: Polícia - Titãs

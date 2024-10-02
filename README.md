@@ -51,6 +51,10 @@ Músicas Criadas: Polícia - Titãs
 <img src="https://imgs.search.brave.com/pdp0tcuJ0hjM3Q3n1SnVeRAmHgjoqpKrMa5YKmY0egI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDE0ZUNyLWZOUEwu/anBn"/>
 Jogos: <a href="https://clonehero.net/">Clone hero</a>, e todos os Guitar Hero e Rock Band
 
+## Modelo de negócio do jogo
+Criar guitarras e baixos personalizados para o público. Se você quer uma guitarra igual do Eddie Van Halen, nós fazemos, uma guitarra com dois braços igual a Gibson EDS-1275 do Jimmy Page, uma com a foto da sua mãe... Qualquer coisa, o cliente que manda. <br>
+Também se você é músico, podemos criar um chart da sua música para guitar hero e, assim, alcançar um público maior
+
 ## Lista de Materiais e Equipamentos
 
 * Placa Zero Delay Usb

@@ -53,11 +53,9 @@ Jogos: <a href="https://clonehero.net/">Clone hero</a>, e todos os Guitar Hero e
 
 ## Lista de Materiais e Equipamentos
 
-* Arduino Uno
-* Fios
-* Resistores
-* Push Buttons
-* MDF 60x40
+* Placa Zero Delay Usb
+* Botões
+* MDF 40x40
 * Máquina de corte a laser
 
 ## Feira de Jogos

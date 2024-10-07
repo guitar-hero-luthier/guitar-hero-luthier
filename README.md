@@ -10,7 +10,7 @@ Há uma grande variedade de músicas, inclusive é possível criar as suas para 
 - História: Rock'n'Roll e todos seus subgêneros, desde o os clássicos no rock progressivo, passando pelo rock clássico, heavy metal, hard rock, punk rock, grunge, numetal, indie, pop punk e emo. (E muitas outros subgêneros também)
 - Controles: Para esse projeto, uma guitarra de 5 botões e um baixo de 5 botões, mas há guitarras com 6 botões e baterias.
 
-### Lista de Músicas
+### Lista de Bandas
 Serão adicionadas ao jogo algumas músicas originais de outros Guitar Hero, mas para esse projeto se utilizará o [Moonscraper](https://github.com/FireFox2000000/Moonscraper-Chart-Editor) para criar os arquivos .chart de músicas de rock brasileiro que ainda não possuem um arquivo .chart. Algumas bandas/músicos:
 - Titãs
 - Pitty

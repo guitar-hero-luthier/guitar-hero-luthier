@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="60cm"
+   height="40cm"
+   viewBox="0 0 600 399.99999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="guitarraCorpoLesPaul.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="cm"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.15275758"
+     inkscape:cx="1135.7865"
+     inkscape:cy="903.39214"
+     inkscape:window-width="1024"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="430.29541,232.76296"
+       orientation="0,1"
+       id="guide5640"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="396.72106,173.37399"
+       orientation="0,1"
+       id="guide5682"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="841.05814,248.49154"
+       orientation="1,0"
+       id="guide5799" />
+    <sodipodi:guide
+       position="804.07116,228.76414"
+       orientation="1,0"
+       id="guide5801" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2355" />
+    </marker>
+    <linearGradient
+       id="linearGradient1344"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1342" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 50.36217,198.56322 C 50.01316,23.996785 173.97765,17.271529 173.97765,17.271529 c 96.93568,-4.177536 114.74785,76.033388 145.17134,77.990176 47.59566,3.06127 66.42913,-33.690181 100.41732,-26.925492 70.58126,14.04783 56.80291,96.852507 56.80291,96.852507 l -77.39012,0.027 -0.79684,60.1308 44.61261,-0.76883 c 0,0 -35.31783,18.79549 -38.33365,47.35817 -1.88533,17.85587 14.3866,40.37507 13.93893,50.41378 -0.13832,3.10199 -13.77818,5.40069 -23.69655,2.74429 -24.35506,-6.52293 -53.97786,-38.29561 -71.7058,-24.07769 -48.89909,39.21738 -105.33924,89.43443 -158.61793,79.39977 -41.35169,-7.7883 -113.68502,-15.44993 -114.0177,-181.85279 z"
+       id="path484"
+       sodipodi:nodetypes="ssssccccssssss" />
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="60cm"
+   height="40cm"
+   viewBox="0 0 600 400"
+   version="1.1"
+   id="svg3366"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="guitarraBracoFirebird.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3368"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2926452"
+     inkscape:cx="457.89235"
+     inkscape:cy="638.99903"
+     inkscape:window-width="1600"
+     inkscape:window-height="823"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3363" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#0300b2;stroke-width:1.865;stroke-dasharray:none;stroke-opacity:1"
+       d="M 71.067918,207.97787 H 8.8313282 V 159.61436 H 47.493308 L 418.2326,171.15784 c 21.7623,1.65828 34.60618,-10.8964 34.60618,-10.8964 l 98.00315,14.70807 c 9.36811,-1.0187 11.20843,-12.78508 14.16214,-12.83699 17.51653,-0.30784 27.05813,11.75428 29.56653,26.39898 1.4345,8.37512 -2.5308,15.9724 -11.6037,22.69709 l -113.27853,19.15912 -10.35605,7.05642 c 0,0 -8.57482,-18.14358 -38.86362,-30.55486 z"
+       id="path3246"
+       sodipodi:nodetypes="cccccccssccccc" />
+  </g>
+</svg>

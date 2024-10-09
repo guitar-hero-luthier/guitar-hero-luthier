@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600mm"
+   height="400mm"
+   viewBox="0 0 600 400"
+   version="1.1"
+   id="svg1821"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="guitarraBracoSG.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1823"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.41386281"
+     inkscape:cx="976.16888"
+     inkscape:cy="618.56246"
+     inkscape:window-width="1600"
+     inkscape:window-height="823"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1818" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       d="m 71.510003,164.14525 367.957277,4.76827 c 0,0 8.2847,-1.41314 12.8568,-4.66028 2.808,-1.9942 6.2505,-7.42023 7.4263,-7.18353 9.3605,1.88434 22.3445,4.60343 33.8426,6.95332 4.4152,0.90237 15.5562,1.3181 15.5562,1.3181 0,0 11.9668,1.24699 32.4184,0.28517 1.1223,-0.0528 12.784,21.39229 12.784,21.39229 0,0 -0.082,3.19472 -0.2788,4.77792 -0.1325,1.06772 -0.9046,1.92186 -0.7873,2.92461 0.155,1.32523 1.5469,2.23526 1.9043,3.52078 0.3468,1.24779 0.4217,2.60869 0.1804,3.88111 -1.3267,6.99589 -7.6451,13.34769 -8.7351,19.49409 -0.3775,2.12853 -2.9903,4.26635 -5.1311,3.9661 -9.3496,-1.3113 -21.5634,-3.85076 -21.5634,-3.85076 0,0 -22.5992,-2.76856 -35.3617,-2.46707 -8.3909,0.19822 -17.788,2.03638 -25.0987,2.02006 -3.1925,-0.007 -5.5146,-8.29518 -9.1335,-11.64955 -5.3292,-4.93963 -15.5684,-7.57664 -15.5684,-7.57664 l -363.220227,4.43887 z"
+       id="path1816"
+       sodipodi:nodetypes="ccssscscssassscsssccc" />
+  </g>
+</svg>

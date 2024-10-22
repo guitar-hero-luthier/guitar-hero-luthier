@@ -5,3 +5,4 @@ Foi feito um desenho por cima de uma tábua mdf de 15mm de espessura e cortada c
 
 <img src="imgGuitarraV.jpg"/>
 <img src="imgGuitarraStrato.jpg"/>
+Guitarras lixadas.

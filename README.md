@@ -1,5 +1,3 @@
-
-
 # Guitar-Hero-Luthier
 
 ## Premissa
@@ -59,7 +57,7 @@ Criar guitarras e baixos personalizados para o público. Se você quer uma guita
 Também se você é músico, podemos criar um chart da sua música para guitar hero e, assim, alcançar um público maior
 
 ## Lista de Materiais e Equipamentos
-
+Histórico da construção das [guitarras](guitarras/guitarras.md)
 * Placa Zero Delay Usb
 * Botões
 * MDF 40x40

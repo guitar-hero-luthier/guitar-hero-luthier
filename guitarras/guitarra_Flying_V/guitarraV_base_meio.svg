@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600mm"
+   height="400mm"
+   viewBox="0 0 600 400"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="guitarraV_base.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.38707562"
+     inkscape:cx="1210.3578"
+     inkscape:cy="574.82308"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path84"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       d="m 415.47017,52.584833 -158.5666,-31.975799 -21.68343,46.371317 -35.10027,76.273589 -32.69838,68.09272 -32.34005,67.86829 -30.13623,64.32501 c 0,0 -16.220826,28.66333 -25.150761,45.78829 -0.356244,0.68308 0.95164,1.57399 0.95164,1.57399 l 43.279901,-32.59363 39.30305,-31.58438 41.22485,-33.82767 42.00709,-34.27077 37.20173,-30.09356 35.56991,-29.2156 16.42593,13.53231 22.09563,19.84064 39.5069,35.81619 31.25613,28.21367 30.58454,28.26966 23.04659,21.41441 22.99057,23.07238 c 0,0 7.66377,8.37495 12.16614,11.77968 0.94556,0.715 3.35545,1.51601 3.35545,1.51601 l -2.05196,-11.15366 -8.61336,-30.01469 -23.89731,-70.38016 -23.50511,-69.73616 -22.34268,-70.00235 -23.50375,-74.396549 z" />
+    <path
+       id="path77"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       d="M 369.43148,43.300661 305.21864,30.352042 245.72022,185.16063 422.46992,209.13061 Z" />
+  </g>
+</svg>

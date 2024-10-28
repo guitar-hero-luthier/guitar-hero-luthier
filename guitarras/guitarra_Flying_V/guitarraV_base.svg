@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600mm"
+   height="400mm"
+   viewBox="0 0 600 400"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="guitarraV_base.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.38707562"
+     inkscape:cx="1006.2633"
+     inkscape:cy="711.74723"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path84"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       d="m 436.80087,56.400494 -156.27591,-41.757095 -24.52011,44.935887 -39.76724,73.947664 -36.86214,65.93167 -36.49059,65.72992 -34.07103,62.33028 c 0,0 -17.968806,27.60115 -27.944556,44.13876 -0.397962,0.65964 0.852109,1.63002 0.852109,1.63002 l 45.219667,-29.84417 41.18783,-29.08376 43.2452,-31.20342 44.05342,-31.5971 38.99804,-27.72625 37.31486,-26.95126 15.55424,14.52585 20.82142,21.17395 37.20743,38.19949 29.44451,30.09948 28.77072,30.11367 21.67285,22.80371 21.51403,24.45503 c 0,0 7.12913,8.83451 11.41145,12.51216 0.89936,0.77231 3.25489,1.72137 3.25489,1.72137 l -1.35565,-11.25953 -6.7336,-30.49147 -19.4824,-71.72786 -19.13094,-71.06075 -17.95421,-71.25427 -18.8403,-75.712067 z" />
+  </g>
+</svg>

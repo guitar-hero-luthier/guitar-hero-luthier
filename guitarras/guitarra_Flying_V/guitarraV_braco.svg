@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600mm"
+   height="400mm"
+   viewBox="0 0 600 400"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="guitarraV_braco.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.38707562"
+     inkscape:cx="1006.2633"
+     inkscape:cy="711.74723"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       d="m 17.745839,16.362198 c 0,0 66.873745,19.99676 119.802681,31.832028 0.59333,0.132697 4.99915,1.844487 7.34773,3.085836 1.07109,0.566413 1.65031,1.505536 1.32008,2.542279 -0.96699,3.035787 -5.06719,8.104485 -5.06719,8.104485 l -1.25369,0.693744 -0.12577,1.879875 -1.70964,2.871716 1.08251,1.379187 72.74494,42.501942 132.11493,77.13043 c 0,0 52.58045,30.216 79.47624,45.33963 4.26249,2.39675 36.99599,7.76872 36.99599,7.76872 l 50.64361,10.44432 23.8764,5.20317 -77.4374,109.1795 c 0,0 -37.46759,-48.93094 -52.88876,-74.12191 -0.93782,-1.53198 -2.21031,-2.93032 -3.59656,-4.0128 -20.32529,-15.87126 -63.46377,-44.24331 -63.46377,-44.24331 L 224.72379,174.63327 c 0,0 -89.92775,-54.11513 -103.99539,-64.7825 -0.70724,-0.53612 -12.0068,-0.81532 -13.76625,3.65687 -1.92586,4.89514 -3.78377,9.26865 -6.31886,10.99273 -1.118946,0.76103 -2.586286,0.0288 -3.179906,-0.67213 C -2.2896274,6.043447 17.745839,16.362198 17.745839,16.362198 Z"
+       id="path75"
+       sodipodi:nodetypes="cssscccccccsccccssccssssc" />
+    <path
+       id="path76"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       d="m 578.79478,265.91688 -43.75089,-8.81309 -77.4627,109.24037 17.71055,23.88256 z" />
+  </g>
+</svg>

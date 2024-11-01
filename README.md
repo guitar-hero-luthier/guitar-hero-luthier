@@ -63,8 +63,9 @@ Também se você é músico, podemos criar um chart da sua música para guitar h
 Histórico da construção das [guitarras](guitarras/guitarras.md)
 * Placa Zero Delay Usb
 * Botões
-* MDF 40x40
+* MDF 60x40
 * Máquina de corte a laser
+* Serra tico tico
 
 ## Feira de Jogos
 Projeto final do curso técnico de telecomunicações no IFSC São José. <br>

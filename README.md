@@ -48,7 +48,7 @@ Serão adicionadas ao jogo algumas músicas originais de outros Guitar Hero, mas
 
 Algumas fontes para músicas: <a href="https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit?gid=1870223413#gid=1870223413">Clone Hero Songs, google spreadsheet </a> e <a href="https://www.enchor.us/">Chorus Encore</a> <br>
 Músicas já prontas adicionadas para a feira: Guitar Heros 1,3 e warriors<br>
-Músicas Criadas pela equipe: Polícia - Titãs, Cabeça Dinossauro - Titãs, AA UU - Titãs, Igreja - Titãs
+Músicas Criadas pela equipe: Polícia - Titãs, Cabeça Dinossauro - Titãs, AA UU - Titãs, Igreja - Titãs, Dezesseis - Legião Urbana, Velho Punk - Gritando HC
 
 ## Referências
 <img src="https://imgs.search.brave.com/nkVsceQrH-vyZJWk2q8AWI7shmcy0CjzVhlwY-29OkE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9OUV9OUF84/NDc2MzQtTUxCNTQx/MTk3Mzg1MTRfMDMy/MDIzLVcud2VicA"/>

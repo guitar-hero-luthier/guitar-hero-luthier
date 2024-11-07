@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="guitarraV_base_meio.svg"
+   sodipodi:docname="guitarraV_corpo_meio.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.38707562"
-     inkscape:cx="1609.5046"
-     inkscape:cy="782.79278"
+     inkscape:zoom="0.54740759"
+     inkscape:cx="1033.9645"
+     inkscape:cy="568.13242"
      inkscape:window-width="1600"
      inkscape:window-height="823"
      inkscape:window-x="0"
@@ -48,7 +48,7 @@
     <path
        id="path77"
        style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
-       d="M 305.21864,30.352042 245.72022,185.16063 422.46992,209.13061 369.43148,43.300661"
+       d="M 305.21864,30.352042 244.73679,174.34625 421.06491,195.8786 369.43148,43.300661"
        sodipodi:nodetypes="cccc" />
   </g>
 </svg>

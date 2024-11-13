@@ -6,3 +6,7 @@ Foi feito um desenho por cima de uma tábua mdf de 15mm de espessura e cortada c
 <img src="imgGuitarraV.jpg"/>
 <img src="imgGuitarraStrato.jpg"/>
 Guitarras lixadas.
+
+## Semana 11/11 a 15/11
+Definidas as marcações para posicionar os botões e o joystick.
+<img src="guitarraVfuro.jpg"/>

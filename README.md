@@ -45,6 +45,7 @@ Serão adicionadas ao jogo algumas músicas originais de outros Guitar Hero, mas
 - Casa das Máquinas
 - Secos & Molhados
 - O Terço
+- Tihuana
 
 Algumas fontes para músicas: <a href="https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit?gid=1870223413#gid=1870223413">Clone Hero Songs, google spreadsheet </a> e <a href="https://www.enchor.us/">Chorus Encore</a> <br>
 Músicas já prontas adicionadas para a feira: Guitar Heros 1,3 e warriors<br>

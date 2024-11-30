@@ -17,3 +17,7 @@ Guitarra finalizada com joystick e botões fixados (já é possível jogar):
 As duas guitarras já estão com o circuit e prontas para jogar
 <img src="img_guitarras_historico/guitarras-circuito-costas.jpg">
 <img src="img_guitarras_historico/guitarras-circuito-frente.jpg"> 
+
+## Semana 25/11 a 29/11
+Foi cortada uma terceira guitarra, dessa vez do modelo SG
+<img src="img_guitarras_historico/imgGuitarraSG.jpg">

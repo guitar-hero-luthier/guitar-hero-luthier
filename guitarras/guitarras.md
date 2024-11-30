@@ -12,3 +12,8 @@ Definidas as marcações para posicionar os botões e o joystick. Uso dos botõe
 <img src="img_guitarras_historico/guitarraVfuro.jpg"/>
 Guitarra finalizada com joystick e botões fixados (já é possível jogar):
 <img src="img_guitarras_historico/GuitarraV_modelo_jogavel.jpeg"/>
+
+## Semana 18/11 a 22/11
+As duas guitarras já estão com o circuit e prontas para jogar
+<img src="img_guitarras_historico/guitarras-circuito-costas.jpg">
+<img src="img_guitarras_historico/guitarras-circuito-frente.jpg"> 

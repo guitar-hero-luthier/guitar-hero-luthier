@@ -41,7 +41,7 @@ socket.on("coinInsert", (data) => {
       socket.emit(messageType, messageContent);
 
       bot_telegram.telegram.sendMessage(process.env.ID_TELEGRAM_JOAOS, "Ficha comprada!");
-      //bot_telegram.telegram.sendMessage(process.env.ID_TELEGRAM_JOAOP, "Ficha comprada!");
+      bot_telegram.telegram.sendMessage(process.env.ID_TELEGRAM_JOAOP, "Ficha comprada!");
     }
   } catch (error) {
     console.error("Erro ao processar dados de moeda:", error);

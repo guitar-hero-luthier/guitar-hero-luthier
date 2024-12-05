@@ -21,3 +21,8 @@ As duas guitarras já estão com o circuit e prontas para jogar
 ## Semana 25/11 a 29/11
 Foi cortada uma terceira guitarra, dessa vez do modelo SG
 <img src="img_guitarras_historico/imgGuitarraSG.jpg">
+
+## Semana 02/12 a 06/12
+Foi feita a pintura das três guitarras e realizado os furos da guitarra SG
+<img src="img_guitarras_historico/guitarras-pintadas.jpg">
+<img src="img_guitarras_historico/guitarraSGfuro.jpg">

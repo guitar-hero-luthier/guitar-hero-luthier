@@ -65,7 +65,7 @@ Histórico da construção das [guitarras](guitarras/guitarras.md)
 * Placa Zero Delay Usb
 * Botões
 * Joystick
-* MDF 60x40
+* MDF 60x40 (15mm e 18mm) 
 * Máquina de corte a laser
 * Serra tico tico
 * Grampeador eletrico
